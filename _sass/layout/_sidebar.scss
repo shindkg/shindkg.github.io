@@ -45,7 +45,7 @@ $sidebar-display: 'sidebar-display'; /* the attribute for sidebar display */
 
   %sidebar-link-hover {
     &:hover {
-      color: var(--sidebar-active-color);
+      color: var(--sidebar-muted-color);
     }
   }
 

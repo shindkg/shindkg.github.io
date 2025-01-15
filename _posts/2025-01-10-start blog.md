@@ -56,9 +56,9 @@ $ bundle exec jekyll s
 ```
 
 ---
-정리
-: 1. chirpy 테마 fork
-2. tools/init.sh 실행
+📄 정리
+: 1. 깃허브 블로그 Chirpy 테마 fork 하기
+2. tools/init.sh 실행하여 초기화
 3. bundle exec jekyll serve로 실행하기
 
 ---
