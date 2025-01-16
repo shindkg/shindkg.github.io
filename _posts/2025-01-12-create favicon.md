@@ -34,7 +34,7 @@ Favicon Generator로 생성된 파일을 기존 /assets/img/favicons 에 있는 
 ## 💡 3. Favicon 적용하기
 
 git commit & push 후 잘 적용됐는지 확인한다. Favicon(파비콘) 적용 완료!  
-![favicons 파일들](/assets/img/post/post-create-favicons-applied.png){: .normal  }
+![shindkg 블로그에 favicon 적용](/assets/img/post/post-create-favicons-applied.png){: .normal  }
 
 ---
 정리
