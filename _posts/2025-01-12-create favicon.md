@@ -37,7 +37,7 @@ git commit & push 후 잘 적용됐는지 확인한다. Favicon(파비콘) 적�
 ![shindkg 블로그에 favicon 적용](/assets/img/post/post-create-favicons-applied.png){: .normal  }
 
 ---
-정리
+📄 정리
 : 1. Favicon 만들기
 2. Favicon Generator로 Favicon(파비콘) 변환하기
 3. Favicon(파비콘) 적용하기
