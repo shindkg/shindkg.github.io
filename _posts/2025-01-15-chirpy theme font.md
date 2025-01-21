@@ -3,7 +3,7 @@ layout: post
 title:  "[깃허브 블로그] 3. Chirpy Theme에서 글꼴 변경하기"
 date:   2025-01-15 17:16:00 +0900
 categories: [깃허브블로그, 블로그꾸미기]
-tags: [blog, theme, chirpy, font]
+tags: [blog, theme, chirpy, font, scss]
 ---
 
 기존 Chirpy Theme이 영어 기반이라 그런지 한국어 폰트가 뭔가 어색해보였다. 그래서 폰트를 바꾸고 싶었다. 다른 테마는 어떻게 바꿀지 모르겠지만 Chirpy Theme 기준으로 바꾸는 방법을 정리했다. 
@@ -30,7 +30,7 @@ tags: [blog, theme, chirpy, font]
 - Static Assets for Chirpy Jekyll Theme
   - <https://github.com/cotes2020/chirpy-static-assets?tab=readme-ov-file#usage>
 
-jekyll-theme-chirpy의 _config.yml 에서 enabled: true로 바꾼다.
+jekyll-theme-chirpy의 _config.yml 에서 `enabled: true`로 바꾼다.
 
 ```yml
 assets:
@@ -54,11 +54,19 @@ jekyll-theme-chirpy의 .gitmodules 파일의 url을 fork한 repository로 바꾼
 ```yml
 [submodule "assets/lib"]
     path = assets/lib
-    url = https://github.com/cotes2020/chirpy-static-assets.git
+    url = https://github.com/shindkg/chirpy-static-assets.git
 ```
 {: file='.gitmodules'}
 
 ## 💡 3. Chirpy Theme 폰트 적용하기
+
+scss 파일에서 font-family를 다운 받은 폰트로 바꿔준다.
+
+```scss
+$font-family-base: 'Noto Sans KR', ...
+$font-family-heading: 'Noto Sans KR', ...
+```
+{: file='_sass\abstracts\_variables.scss'}
 
 잘 적용됐는지 확인한다. 바뀐 폰트가 마음에 든다!  
 ![shindkg 블로그에 새로운 font 적용](/assets/img/post/post-chirpy-theme-font.png){: .normal  }
