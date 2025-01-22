@@ -3,7 +3,7 @@ layout: post
 title:  "[깃허브 블로그] 4. Chirpy Theme 디자인 바꾸기"
 date:   2025-01-16 16:30:00 +0900
 categories: [깃허브블로그, 블로그꾸미기]
-tags: [blog, chirpy, scss, css, html]
+tags: [blog, chirpy theme, scss, css, html]
 ---
 
 기본 테마 디자인도 좋지만 내 스타일대로 꾸미려고 scss 파일을 고쳐봤다.

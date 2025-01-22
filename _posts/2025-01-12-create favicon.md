@@ -3,7 +3,7 @@ layout: post
 title:  "[깃허브 블로그] 2. Favicon 만들기"
 date:   2025-01-12 15:35:00 +0900
 categories: [깃허브블로그, 블로그생성하기]
-tags: [blog, theme, chirpy, favicon]
+tags: [blog, chirpy theme, favicon]
 image:
   path: /assets/img/post/post-create-favicon.png
   alt: favicon 예시

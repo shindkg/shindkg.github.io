@@ -3,7 +3,7 @@ layout: post
 title:  "[깃허브 블로그] 3. Chirpy Theme에서 글꼴 변경하기"
 date:   2025-01-15 17:16:00 +0900
 categories: [깃허브블로그, 블로그꾸미기]
-tags: [blog, theme, chirpy, font, scss]
+tags: [blog, chirpy theme, font, scss]
 ---
 
 기존 Chirpy Theme이 영어 기반이라 그런지 한국어 폰트가 뭔가 어색해보였다. 그래서 폰트를 바꾸고 싶었다. 다른 테마는 어떻게 바꿀지 모르겠지만 Chirpy Theme 기준으로 바꾸는 방법을 정리했다. 

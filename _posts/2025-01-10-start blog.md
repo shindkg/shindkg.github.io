@@ -3,7 +3,7 @@ layout: post
 title:  "[깃허브 블로그] 1. Github 블로그에 Jekyll Chirpy 테마 적용 후 실행하기"
 date:   2025-01-10 10:10:00 +0900
 categories: [깃허브블로그, 블로그생성하기]
-tags: [blog, jekyll, theme, chirpy]
+tags: [blog, jekyll theme, chirpy theme]
 ---
 
 ## 💡 1. 깃허브 블로그 만들기
