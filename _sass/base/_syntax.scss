@@ -64,7 +64,8 @@ code {
   color: var(--code-color);
 
   &.highlighter-rouge {
-    font-size: v.$code-font-size;
+    // font-size: v.$code-font-size;
+    letter-spacing: -0.02rem;
     padding: 3px 5px;
     word-break: break-word;
     border-radius: v.$radius-sm;
