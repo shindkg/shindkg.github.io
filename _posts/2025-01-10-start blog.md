@@ -52,7 +52,7 @@ $ tools/init.sh
 로컬 서버를 http://127.0.0.1:4000 에서 확인할 수 있다!
 
 ```terminal
-$ bundle exec jekyll s
+$ bundle exec jekyll serve
 ```
 
 ---
