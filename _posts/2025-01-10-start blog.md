@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[깃허브 블로그] 1. Github 블로그에 Jekyll Chirpy 테마 적용 후 실행하기"
+title:  "[깃허브 블로그] 1. Github 블로그에 Jekyll Chirpy 테마 적용 후 실행하기(1)"
 date:   2025-01-10 10:10:00 +0900
 categories: [깃허브블로그, 블로그생성하기]
 tags: [blog, jekyll theme, chirpy theme]
@@ -49,7 +49,7 @@ $ tools/init.sh
 이제 Jekyll theme 블로그를 실행해본다.  
 - <https://chirpy.cotes.page/posts/getting-started/#usage>  
 
-로컬 서버를 http://127.0.0.1:4000 에서 확인할 수 있다!
+http://127.0.0.1:4000에서 확인할 수 있다!
 
 ```terminal
 $ bundle exec jekyll serve
