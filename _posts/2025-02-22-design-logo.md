@@ -2,7 +2,7 @@
 layout: post
 title:  "프로젝트를 위한 로고 작업"
 date:   2025-02-22 11:00:00 +0900
-categories: [design, 로고]
+categories: [design, logo]
 tags: [design, logo, illustrator]
 ---
 
