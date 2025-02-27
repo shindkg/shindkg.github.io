@@ -2,7 +2,7 @@
 layout: post
 title:  "Git 계정 정보 바꾸기"
 date:   2025-02-06 14:00:00 +0900
-categories: [git, 계정 정보]
+categories: [깃, 계정 정보]
 tags: [git, git config, unset]
 ---
 
