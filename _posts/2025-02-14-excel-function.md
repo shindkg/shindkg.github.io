@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Excel] 같은 품목을 찾아서 해당 행의 셀 값 찾기(value, index, match)"
+title:  "[엑셀] 같은 품목을 찾아서 해당 행의 셀 값 찾기(value, index, match)"
 date:   2025-02-14 15:00:00 +0900
 categories: [기타, 엑셀]
 tags: [excel, index function, match function]
